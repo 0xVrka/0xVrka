@@ -10,7 +10,7 @@ Below are selected audit results and bug-bounty findings across blockchain proto
 
 | Protocol | Ecosystem | Platform | Description | Findings | Report |
 |---|---|---|---|---|---|
-| XRPL (rippled) | C++ / XRPL | Sherlock (Apr 2026) | AMM + MPT DEX upgrade | 2 M | [🔗](https://github.com/XRPLF/rippled) |
+| XRPL (rippled) | C++ / XRPL | Sherlock (Apr 2026) | L1 protocol featuring AMM and MPT DEX upgrades | 2 M | [🔗](https://audits.sherlock.xyz/contests/1260?filter=results) |
 | Olas | Solidity / EVM | Code4rena (Jan 2026) | DeFi protocol with Uniswap & Balancer oracles | 1 H, 1 M | [🔗](https://code4rena.com/audits/2026-01-olas) |
 | SukukFi | Solidity / EVM | Code4rena (Nov 2025) | Tokenized sukuk vault (ERC-7575) | 1 H | [🔗](https://code4rena.com/audits/2025-11-sukukfi) |
 
